@@ -13,3 +13,7 @@
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rlespinasse/wtfpl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
